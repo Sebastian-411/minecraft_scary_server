@@ -11,5 +11,8 @@ curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trust
 
 Abres la consola, pones ./run.sh
 
-otra consola, pones "ngrok tcp 25565"
+otra consola,
+ngrok config add-authtoken TOKEN
+
+ngrok tcp 25565
 
