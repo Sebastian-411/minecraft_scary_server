@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/Stay_True_1.20.zip",
+    "file/MandalasGUI+Modded_Dakmode_v4.6.zip",
+    "file/Mandalas_Legacy_Gui_Background.zip",
+    "builtin/overrides_pack",
+    "file/Created Simple Storage 1.3.zip",
+    "file/Aether Regenerated v1.1.2.zip",
+    "file/waystones_1.20.zip",
+    "file/Icon Xaero's 1.13.zip",
+    "file/Better_Modded_GUI.zip",
+    "file/NoBushyLeaves.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "file/WDA-NoFlyingStructures-OWEND-1.18.2-1.20.1.zip": {
+      "hidden": true
+    },
+    "file/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Friends_And_Foes_v3.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Bountiful_v2.zip": {
+      "hidden": true
+    },
+    "file/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip": {
+      "hidden": true
+    },
+    "file/LessStructures-SpacingTweaks-1.20.1-2.1.56.zip": {
+      "hidden": true
+    },
+    "blue_skies:legacy_pack": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Bountiful_v3.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-VillagersPlus_v3.zip": {
+      "hidden": true
+    },
+    "programmer_art": {
+      "hidden": true
+    },
+    "defaultresources": {
+      "hidden": true
+    },
+    "dynamic_asset_generator:dynamic_asset_generator:builtin_assets": {
+      "hidden": true
+    },
+    "dynamic_asset_generator:excavated_variants:assets": {
+      "hidden": true
+    },
+    "Moonlight Mods Dynamic Assets": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Dungeons_v5.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Strongholds_v5.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Witch_Huts_v4.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Bygone_Nether_v2.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Farmers_Delight_v6.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Friends_And_Foes_v5.zip": {
+      "hidden": true
+    },
+    "builtin/aether_125_art": {
+      "hidden": true
+    },
+    "builtin/DAGoldenSwetBallFixClient": {
+      "hidden": true
+    },
+    "builtin/aether_b173_art": {
+      "hidden": true
+    },
+    "builtin/deep_aether_additional_assets": {
+      "hidden": true
+    },
+    "lost_aether_content:classic_pack": {
+      "hidden": true
+    },
+    "high_contrast": {
+      "hidden": true
+    }, 
+    "builtin/aether_colorblind": {
+      "hidden": true
+    },
+    "supplementaries:darker_ropes": {
+      "hidden": true
+    },
+    "file/SE Vanilla Consistency 1.20.1.zip": {
+      "hidden": true
+    },
+    "twilightdelight:shader_compatible_fiery": {
+      "hidden": true
+    },
+    "file/Quark Programmer Art.zip": {
+      "hidden": true
+    },
+    "builtin/aether_tips": {
+      "hidden": true
+    }
+  }
+}
